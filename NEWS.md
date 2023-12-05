@@ -3,10 +3,12 @@ NEWS-robust
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-05 10:57:00.123788
+    #> Last Update: 2023-12-05 15:46:54.97806
 
 # robust v0.7-3 (2023-12-05)
 
+- src/compatability.c, lmrobmm.f: format string is not a string literal
+  (potentially insecure)
 - src/mmprnt.c: format ‘%ld’ changed to ’%d%, see mail of Kurt Hornik
   from 26.11.2023
 
