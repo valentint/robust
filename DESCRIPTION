@@ -1,6 +1,6 @@
 Package: robust
-Version: 0.7-1
-VersionNote: Released 0.7-0 on 2022-02-01 on CRAN
+Version: 0.7-3
+VersionNote: Released 0.7-2 on 2023-06-23 on CRAN
 Title: Port of the S+ "Robust Library"
 Description: Methods for robust statistics, a state of the art in the early
   2000s, notably for robust regression and robust multivariate analysis.
