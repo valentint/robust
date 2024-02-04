@@ -3,7 +3,12 @@ NEWS-robust
 
 <!-- NEWS.md is generated from NEWS.Rmd. Please edit that file -->
 
-    #> Last Update: 2023-12-05 15:46:54.97806
+    #> Last Update: 2024-02-04 10:53:52.171872
+
+# robust v0.7-4 (2024-01-04)
+
+- R/glmRob.misclass.q: remove is.R() - see mail of Prof. Ripley from
+  29.01.2024
 
 # robust v0.7-3 (2023-12-05)
 
