@@ -17,6 +17,10 @@
 # Output files from R CMD check
 /*.Rcheck/
 
+# Object files and dlls
+*.o
+*.dll
+
 # RStudio files
 .Rproj.user/
 
